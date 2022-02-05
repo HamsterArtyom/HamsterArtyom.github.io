@@ -1,0 +1,35 @@
+p {
+		color: purple; 
+		line-height: 1.25;
+	margin-bottom: 1em;
+}
+            .first {
+		color: navy; 
+		font-weight: bold; 
+  		border-left: 5px solid beige;
+}
+body {
+    background-color: #131313;
+    color: white;
+}
+h1 {
+    color: #FF5733;
+}
+
+.entry-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 40px;
+    position: relative;
+    flex-wrap: wrap;
+    
+}
+
+.entry {
+    width: 600px;
+}
+
+img {
+    width: 480px;
+}
