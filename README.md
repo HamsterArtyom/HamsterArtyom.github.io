@@ -1,0 +1,1 @@
+# HamsterArtyom.github.io
